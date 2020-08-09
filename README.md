@@ -1,16 +1,14 @@
 # Deloitte - aws-beanstalk-example
 aws-beanstalk-example : API that will use a string as input and does a find and replace for certain words and outputs the result. For example: replace Google for Google©
 # What's Here
-buildspec.yml - this file is used by AWS CodeBuild to build the web application
-pom.xml - this file is the Maven Project Object Model for the web application
-src/main - this directory contains your Java service source files
-src/test - this directory contains your Java service unit test files
+buildspec.yml - this file is used by AWS CodeBuild to build the web application     
+pom.xml - this file is the Maven Project Object Model for the web application      
+src/main - this directory contains your Java service source files     
+src/test - this directory contains your Java service unit test files    
  
 # Aws Service used in development 
-# Code Pipeline
- #Code Commit 
- #Code build 
- #Code Deploy
+# Code Pipeline -
+ Code Commit,Code build, Code Deploy
 # Elastic beanstalk  -Paas
   To deploy application.
 
