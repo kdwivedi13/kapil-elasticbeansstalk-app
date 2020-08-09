@@ -9,7 +9,7 @@ src/test - this directory contains your Java service unit test files
 # Aws Service used in development 
 # Code Pipeline -
  Code Commit,Code build, Code Deploy
-# Elastic beanstalk  -Paas
+# Elastic beanstalk - Paas
   To deploy application.
 
 # Request - 
