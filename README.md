@@ -11,6 +11,9 @@ src/test - this directory contains your Java service unit test files
  Code Commit,Code build, Code Deploy
 # Elastic beanstalk - Paas
   To deploy application.
+  
+# Postman Project
+https://www.getpostman.com/collections/de6bda0d55b71eed3485
 
 # Request - 
 curl --location --request POST 'http://kapildeloitteapp-env.eba-ryhgwq4v.us-east-1.elasticbeanstalk.com/append-copyright-symbol' \
